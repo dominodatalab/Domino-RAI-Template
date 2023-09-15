@@ -1,0 +1,12 @@
+Run: skillful-sheep-656
+
+Classification report:
+              precision    recall  f1-score   support
+
+       <=50K      0.899     0.943     0.920     12435
+        >50K      0.780     0.656     0.713      3846
+
+    accuracy                          0.875     16281
+   macro avg      0.839     0.799     0.816     16281
+weighted avg      0.870     0.875     0.871     16281
+
